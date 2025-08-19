@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/dxnxxldev">
-    <strong>DxnxxlDev</strong>
+    <strong>I'm Jxsx</strong>
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Since then, I've expanded my skill set with **TypeScript**, **HTML**, **CSS**, a
 ---
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dxnxxldev&theme=onedark" alt="Trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=imjxsx&theme=onedark" alt="Trophy">
 </div>
 
 ---
