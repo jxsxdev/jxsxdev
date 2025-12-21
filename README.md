@@ -41,6 +41,8 @@
 
 [![imjxsx/colors](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=colors&theme=dark)](https://github.com/imjxsx/colors)
 
+[![imjxsx/i18n](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=i18n&theme=dark)](https://github.com/imjxsx/i18n)
+
 ## - GitHub Stats
 
 <div align="center">
