@@ -1,53 +1,63 @@
+# Hi there, I'm Jose 👋
+
+## - About Me
+
+> I'm a 17-year-old developer from Paraguay with a passion for building tools that solve real problems. My journey into programming started in an unexpected place: Minecraft Bedrock's command blocks. What began as curiosity about game mechanics evolved into creating custom addons for my servers using JavaScript, and eventually led me to explore the world of automation and bot development.
+
+> My breakthrough came when I discovered WhatsApp bots. Driven by a desire to understand how they worked, I built my own using TypeScript and Baileys. That project opened my eyes to the power of clean, type-safe code and sparked my commitment to continuous learning and experimentation with new technologies.
+
+## - What I'm Working On
+
+- 🔧 Developing and maintaining open-source modules for the [npm](https://npmjs.com) ecosystem.
+- 🦀 Exploring [Rust](https://rust-lang.org) to deepen my understanding of systems programming.
+- 🐍 Learning [Python](https://python.org) to expand my toolkit for data manipulation and automation.
+- 📦 Building developer tools that simplify complex workflows.
+
+## - Tech Stack
+
+**Languages:**  
+
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg?raw=true" alt="JavaScript" title="JavaScript"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?raw=true" alt="TypeScript" title="TypeScript">
+
+**Frameworks & Runtime:**  
+
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg?raw=true?raw=true" alt="Express.js" title="Express.js"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" alt="Node.js" title="Node.js">
+
+**Databases:**  
+
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg?raw=true" alt="MongoDB" title="MongoDB"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg?raw=true" alt="Redis" title="Redis">
+
+**Currently Learning:**  
+
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg?raw=true" alt="Rust" title="Rust"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="Python" title="Python">
+
+## - Featured Projects
+
+[![imjxsx/wapi](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=wapi&theme=dark)](https://github.com/imjxsx/wapi)
+
+[![imjxsx/localdb](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=localdb&theme=dark)](https://github.com/imjxsx/localdb)
+
+[![imjxsx/logger](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=logger&theme=dark)](https://github.com/imjxsx/logger)
+
+[![imjxsx/colors](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=colors&theme=dark)](https://github.com/imjxsx/colors)
+
+## - GitHub Stats
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b4f3f&section=header&height=150" alt="Header">
+
+![I'm Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imjxsx&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=imjxsx&layout=compact&theme=dark&hide_border=true)
+
 </div>
 
-<h1 align="center">✨ Welcome to my Profile ✨</h1>
+## - Let's Connect
 
-<div align="center">
-  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/209652705?v=4" alt="Avatar">
-</div>
+I'm always open to discussing new projects, collaboration opportunities, or just chatting about technology.
 
-<p align="center">
-  <a href="https://github.com/dxnxxldev">
-    <strong>I'm Jxsx</strong>
-  </a>
-</p>
+- 📧 Email: <jxsxdxnxxl@gmail.com>
+- 💬 Discord: imjxsx
 
 ---
 
-## 😺 About Me 😺
-
-Hi! I'm **José Daniel**, a 17-year-old developer passionate about coding and building things from scratch.  
-I started programming at 14 by creating **Minecraft Bedrock add-ons**, which sparked my curiosity in development.  
-Later, I discovered **WhatsApp bots** and got instantly hooked — I even built my own bot from the ground up using **JavaScript**.
-
-Since then, I've expanded my skill set with **TypeScript**, **HTML**, **CSS**, and **Java**, always seeking to learn and collaborate on new and exciting projects.
-
----
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=imjxsx&theme=onedark" alt="Trophy">
-</div>
-
----
-
-## ⚒ The tools and languages I use the most 🛠
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-</p>
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b4f3f&section=footer&height=150" alt="Footer">
-</div>
+*"From Minecraft command blocks to production-ready npm packages—every line of code is a step forward."*  
