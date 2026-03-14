@@ -1,4 +1,4 @@
-# Hi there, I'm Jose 👋
+# Hi there, I'm Jose Daniel 👋
 
 ## - About Me
 
@@ -21,11 +21,11 @@
 
 **Frameworks & Runtime:**  
 
-<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg?raw=true?raw=true" alt="Express.js" title="Express.js"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" alt="Node.js" title="Node.js">
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg?raw=true?raw=true" alt="Express.js" title="Express.js"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg?raw=true" alt="Node.js" title="Node.js"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg?raw=true" alt="Bun" title="Bun">
 
 **Databases:**  
 
-<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg?raw=true" alt="MongoDB" title="MongoDB"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg?raw=true" alt="Redis" title="Redis">
+<img width="20" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg?raw=true" alt="MongoDB" title="MongoDB"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg?raw=true" alt="Redis" title="Redis"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg?raw=true" alt="SQLite" title="SQLite">
 
 **Currently Learning:**  
 
@@ -33,23 +33,23 @@
 
 ## - Featured Projects
 
-[![imjxsx/wapi](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=wapi&theme=dark)](https://github.com/imjxsx/wapi)
+[![jxsxdev/wapi](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=wapi&theme=dark)](https://github.com/jxsxdev/wapi)
 
-[![imjxsx/localdb](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=localdb&theme=dark)](https://github.com/imjxsx/localdb)
+[![jxsxdev/localdb](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=localdb&theme=dark)](https://github.com/jxsxdev/localdb)
 
-[![imjxsx/logger](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=logger&theme=dark)](https://github.com/imjxsx/logger)
+[![jxsxdev/logger](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=logger&theme=dark)](https://github.com/jxsxdev/logger)
 
-[![imjxsx/colors](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=colors&theme=dark)](https://github.com/imjxsx/colors)
+[![jxsxdev/colors](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=colors&theme=dark)](https://github.com/jxsxdev/colors)
 
-[![imjxsx/i18n](https://github-readme-stats.vercel.app/api/pin?username=imjxsx&repo=i18n&theme=dark)](https://github.com/imjxsx/i18n)
+[![jxsxdev/i18n](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=i18n&theme=dark)](https://github.com/jxsxdev/i18n)
 
 ## - GitHub Stats
 
 <div align="center">
 
-![I'm Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imjxsx&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Jose Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxsxdev&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=imjxsx&layout=compact&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jxsxdev&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -58,7 +58,7 @@
 I'm always open to discussing new projects, collaboration opportunities, or just chatting about technology.
 
 - 📧 Email: <jxsxdxnxxl@gmail.com>
-- 💬 Discord: imjxsx
+- 💬 Discord: jxsxdev
 
 ---
 
