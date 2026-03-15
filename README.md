@@ -31,18 +31,6 @@
 
 <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg?raw=true" alt="Rust" title="Rust"> • <img width="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="Python" title="Python">
 
-## - Featured Projects
-
-[![jxsxdev/wapi](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=wapi&theme=dark)](https://github.com/jxsxdev/wapi)
-
-[![jxsxdev/localdb](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=localdb&theme=dark)](https://github.com/jxsxdev/localdb)
-
-[![jxsxdev/logger](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=logger&theme=dark)](https://github.com/jxsxdev/logger)
-
-[![jxsxdev/colors](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=colors&theme=dark)](https://github.com/jxsxdev/colors)
-
-[![jxsxdev/i18n](https://github-readme-stats.vercel.app/api/pin?username=jxsxdev&repo=i18n&theme=dark)](https://github.com/jxsxdev/i18n)
-
 ## - GitHub Stats
 
 <div align="center">
@@ -58,7 +46,7 @@
 I'm always open to discussing new projects, collaboration opportunities, or just chatting about technology.
 
 - 📧 Email: <jxsxdxnxxl@gmail.com>
-- 💬 Discord: jxsxdev
+- 💬 Telegram: jxsxdev
 
 ---
 
