@@ -1,8 +1,8 @@
-# Hi there, I'm Jose Daniel 👋
+# Hi there, I'm Jose Daniel Cristaldo Vera 👋
 
 ## - About Me
 
-> I'm a 17-year-old developer from Paraguay with a passion for building tools that solve real problems. My journey into programming started in an unexpected place: Minecraft Bedrock's command blocks. What began as curiosity about game mechanics evolved into creating custom addons for my servers using JavaScript, and eventually led me to explore the world of automation and bot development.
+> I'm a 18-year-old developer from Paraguay with a passion for building tools that solve real problems. My journey into programming started in an unexpected place: Minecraft Bedrock's command blocks. What began as curiosity about game mechanics evolved into creating custom addons for my servers using JavaScript, and eventually led me to explore the world of automation and bot development.
 
 > My breakthrough came when I discovered WhatsApp bots. Driven by a desire to understand how they worked, I built my own using TypeScript and Baileys. That project opened my eyes to the power of clean, type-safe code and sparked my commitment to continuous learning and experimentation with new technologies.
 
